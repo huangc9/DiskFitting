@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -O3 -funroll-loops -msse3 -std=c++11    CMakeFiles/matrix_mul_test.dir/matrix.cxx.o  -o matrix_mul_test -rdynamic libtao_util.a 

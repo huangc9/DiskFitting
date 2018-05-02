@@ -1,0 +1,2 @@
+/usr/bin/ar cr libmpi_algorithms.a  CMakeFiles/mpi_algorithms.dir/mpi_genetic_algorithm.cxx.o CMakeFiles/mpi_algorithms.dir/mpi_particle_swarm.cxx.o CMakeFiles/mpi_algorithms.dir/mpi_differential_evolution.cxx.o CMakeFiles/mpi_algorithms.dir/master_worker.cxx.o CMakeFiles/mpi_algorithms.dir/mpi_ant_colony_optimization.cxx.o CMakeFiles/mpi_algorithms.dir/mpi_ant_colony_optimization_new.cxx.o
+/usr/bin/ranlib libmpi_algorithms.a

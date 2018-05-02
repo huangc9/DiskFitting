@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsynchronous_algorithms.a  CMakeFiles/synchronous_algorithms.dir/parameter_sweep.cxx.o CMakeFiles/synchronous_algorithms.dir/synchronous_gradient_descent.cxx.o CMakeFiles/synchronous_algorithms.dir/synchronous_newton_method.cxx.o CMakeFiles/synchronous_algorithms.dir/gradient.cxx.o CMakeFiles/synchronous_algorithms.dir/line_search.cxx.o
+/usr/bin/ranlib libsynchronous_algorithms.a

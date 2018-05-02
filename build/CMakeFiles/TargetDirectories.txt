@@ -1,0 +1,8 @@
+/home/huangc9/build/CMakeFiles/DiskFit.dir
+/home/huangc9/build/tao/asynchronous_algorithms/CMakeFiles/asynchronous_algorithms.dir
+/home/huangc9/build/tao/asynchronous_algorithms/CMakeFiles/db_asynchronous_algorithms.dir
+/home/huangc9/build/tao/util/CMakeFiles/matrix_inverse_test.dir
+/home/huangc9/build/tao/util/CMakeFiles/matrix_mul_test.dir
+/home/huangc9/build/tao/synchronous_algorithms/CMakeFiles/synchronous_algorithms.dir
+/home/huangc9/build/tao/util/CMakeFiles/tao_util.dir
+/home/huangc9/build/undvc_common/CMakeFiles/undvc_common.dir

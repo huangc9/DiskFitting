@@ -1,0 +1,2 @@
+/usr/bin/ar cr libtao_util.a  CMakeFiles/tao_util.dir/recombination.cxx.o CMakeFiles/tao_util.dir/statistics.cxx.o CMakeFiles/tao_util.dir/matrix.cxx.o CMakeFiles/tao_util.dir/hessian.cxx.o CMakeFiles/tao_util.dir/newton_step.cxx.o CMakeFiles/tao_util.dir/tao_random.cxx.o CMakeFiles/tao_util.dir/vector_io.cxx.o CMakeFiles/tao_util.dir/arguments.cxx.o
+/usr/bin/ranlib libtao_util.a

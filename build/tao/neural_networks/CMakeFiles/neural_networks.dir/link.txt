@@ -1,0 +1,2 @@
+/usr/bin/ar cr libneural_networks.a  CMakeFiles/neural_networks.dir/neural_network.cxx.o CMakeFiles/neural_networks.dir/time_series_neural_network.cxx.o CMakeFiles/neural_networks.dir/edge.cxx.o CMakeFiles/neural_networks.dir/convolutional_neural_network.cxx.o CMakeFiles/neural_networks.dir/edge_new.cxx.o
+/usr/bin/ranlib libneural_networks.a

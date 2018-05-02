@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huangc9/Density_to_StarCounts/tao/util/matrix.cxx
+cmath
+-
+sstream
+-
+string
+-
+iostream
+-
+vector
+-
+stdint.h
+/home/huangc9/Density_to_StarCounts/tao/util/stdint.h
+util/matrix.hxx
+/home/huangc9/Density_to_StarCounts/tao/util/util/matrix.hxx
+vector_io.hxx
+/home/huangc9/Density_to_StarCounts/tao/util/vector_io.hxx
+
+/home/huangc9/Density_to_StarCounts/tao/util/matrix.hxx
+vector
+-
+string
+-
+stdint.h
+/home/huangc9/Density_to_StarCounts/tao/util/stdint.h
+
+/home/huangc9/Density_to_StarCounts/tao/util/vector_io.hxx
+vector
+-
+iostream
+-
+sstream
+-
+cstring
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libundvc_common.a  CMakeFiles/undvc_common.dir/vector_io.cxx.o CMakeFiles/undvc_common.dir/arguments.cxx.o CMakeFiles/undvc_common.dir/file_io.cxx.o CMakeFiles/undvc_common.dir/parse_xml.cxx.o
+/usr/bin/ranlib libundvc_common.a

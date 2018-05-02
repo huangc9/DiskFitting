@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -O3 -funroll-loops -ftree-vectorize -msse3 -std=c++11    CMakeFiles/DiskFit.dir/Density_to_StarCounts.cpp.o  -o DiskFit -rdynamic tao/asynchronous_algorithms/libasynchronous_algorithms.a tao/synchronous_algorithms/libsynchronous_algorithms.a tao/util/libtao_util.a undvc_common/libundvc_common.a -lboost_filesystem -lboost_system 
